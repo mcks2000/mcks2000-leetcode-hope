@@ -20,4 +20,3 @@ bin-release/
 node_modules/
 docs/guide/
 docs/posts/
-docs/*.md
