@@ -8,7 +8,5 @@ export default defineUserConfig({
 
   base: "/",
 
-  dest: "./dist",
-
   theme,
 });
