@@ -6,7 +6,9 @@ export default defineUserConfig({
   title: "主题演示",
   description: "vuepress-theme-hope 的演示",
 
-  base: "/mcks2000-leetcode-hope/",
+  base: "/",
+
+  dest: "./dist",
 
   theme,
 });
